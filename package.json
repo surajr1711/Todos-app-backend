@@ -8,7 +8,7 @@
 	"main": "server.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"dev": "npx nodemon index.js"
+		"dev": "npx nodemon api/index.js"
 	},
 	"dependencies": {
 		"cors": "^2.8.5",
